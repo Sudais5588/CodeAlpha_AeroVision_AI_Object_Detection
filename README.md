@@ -6,6 +6,12 @@ The tool allows users to detect objects from **images**, **uploaded videos**, an
 This project is designed as an internship / portfolio submission project and demonstrates practical computer vision skills, real-time detection, user-controlled detection settings, and a clean UI/UX.
 
 ---
+## 🔗 Live Demo
+
+https://aerovision-ai-object-detection.streamlit.app/
+
+
+
 
 ## 🚀 Live Project Overview
 
